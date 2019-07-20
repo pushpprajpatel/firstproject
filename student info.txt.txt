@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 name-pushpraj gurjar
 branch-ISE
 city-bangalore;
+=======
+name-pushpraj gurjar
+branch-ISE
+mob no = 09876543222
+>>>>>>> d04122a14a20da510f2c364d10307bbd095f6e53
